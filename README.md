@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yanting</h1>
-<h3 align="center">full stack developer</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 - 🌱 I’m currently learning **React**
 
@@ -10,6 +10,8 @@
 - 📫 How to reach me **yantingchensysu@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/yanting-chen-705519141/](https://www.linkedin.com/in/yanting-chen-705519141/)
+
+- ⚡ Fun fact **I speak Chinese,English and Spanish**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
