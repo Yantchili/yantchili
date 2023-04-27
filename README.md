@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://influmarketing.uscmarketingdigital.com/](https://influmarketing.uscmarketingdigital.com/)
 
-- 📫 How to reach me **yantingchensysu@gmail.com**
+- 📫 How to reach me **chenyantingsysu@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/yanting-chen-705519141/](https://www.linkedin.com/in/yanting-chen-705519141/)
 
